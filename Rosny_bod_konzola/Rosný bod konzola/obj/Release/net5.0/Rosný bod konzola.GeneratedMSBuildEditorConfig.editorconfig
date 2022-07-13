@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Rosný_bod_konzola
+build_property.ProjectDir = C:\Users\vascu\Desktop\Rosný bod - 28.12.2021-20211228T191444Z-001\Rosný bod - 28.12.2021\Rosný bod konzola\Rosný bod konzola\
